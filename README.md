@@ -8,6 +8,7 @@ Unity's new input system
 
 # Features
 Implemented save points to different locations of the map
+
 Used JSON to save data of the current game situation when player touches the save points including current health, current location
 
 # How to install and try for yourself
