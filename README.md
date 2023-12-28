@@ -7,7 +7,7 @@ You play as a knight with a sword. Your mission is to defeat the spider that has
 Unity's new input system
 
 # Features
-Implemented save points to different locations of the map
+Implemented save points to different locations on the map
 
 Used JSON to save data of the current game situation when player touches the save points including current health, current location
 
